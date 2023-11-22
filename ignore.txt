@@ -1,6 +1,4 @@
 \x
-.env
-well-known
 YisouSpider
 ClaudeBot
 InternetMeasurement
