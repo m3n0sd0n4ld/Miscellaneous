@@ -99,7 +99,7 @@ pg_read_file
 substr
 powershell
 shell
-/tmp
+/tmp$
 wget
 ^/.*\.sql$
 ^/.aws/credentials
