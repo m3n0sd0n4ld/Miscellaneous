@@ -202,6 +202,9 @@ passwd
 /wp-config.php_old
 XDEBUG_SESSION_START
 php-storm
+/cgi-bin/luci/
++chmod+
++rm+-rf+sh
 #windows files
 c:/boot.ini
 c:/inetpub/logs/logfiles
