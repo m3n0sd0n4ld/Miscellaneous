@@ -1,4 +1,4 @@
-#XSS rules
+#XSS-rules
 alert(
 <onload
 <xss
@@ -20,7 +20,7 @@ onfocus
 \$
 \^
 \.\./
-#URL ENCODE
+#URL-ENCODE
 \x00
 \x01
 \x02
@@ -110,7 +110,7 @@ passwd
 ^sam
 #Command Injection
 %24%0A
-#linux files
+#linux-files
 /etc/apache2/httpd.conf
 /Library/WebServer/Documents/index.html
 /private/var/log/appstore.log
@@ -205,7 +205,7 @@ php-storm
 /cgi-bin/luci/
 +chmod+
 +rm+-rf+sh
-#windows files
+#windows-files
 c:/boot.ini
 c:/inetpub/logs/logfiles
 c:/inetpub/wwwroot/global.asa
