@@ -12,6 +12,7 @@ href
 CensysInspect
 coccocbot
 dotbot
+petalbot
 sogou
 ahrefsbot
 semrushbot
