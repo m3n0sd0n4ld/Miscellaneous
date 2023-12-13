@@ -313,3 +313,5 @@ eth0.me
 GPTBot
 Bytespider
 best-proxies.ru
+Specificfeeds
+specificfeeds.com
