@@ -47,3 +47,5 @@ zgrab
 Go-http-client
 Ruby
 GPTBot
+Specificfeeds
+specificfeeds.com
