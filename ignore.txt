@@ -50,3 +50,4 @@ GPTBot
 Specificfeeds
 specificfeeds.com
 Bytespider
+infrawatch
