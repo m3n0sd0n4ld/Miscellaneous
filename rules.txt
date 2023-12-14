@@ -214,6 +214,15 @@ php-storm
 /cgi-bin/
 /cgi-bin/luci/
 /autodiscover/
+/.vscode/
+/.DS_Store
+/_all_dbs
+/debug
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+/v2/_catalog
+/config.json
+/telescope/requests
+/ews/
 web+location.hash
 +chmod+
 +rm+-rf+sh
