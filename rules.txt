@@ -36,6 +36,9 @@ onfocus
 \x22id
 \x22params
 \x22miner
+\"jsonrpc\"
+\"method\"
+\"params\"
 %3C
 %3E
 %253C
@@ -328,3 +331,6 @@ ${IFS}
 SSH-2.0-Go
 infrawatch
 WPScan
+EthereumStratum
+cpuminer
+MinerName
