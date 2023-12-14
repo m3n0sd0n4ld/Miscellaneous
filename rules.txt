@@ -319,3 +319,4 @@ Specificfeeds
 specificfeeds.com
 ${IFS}
 SSH-2.0-Go
+infrawatch
