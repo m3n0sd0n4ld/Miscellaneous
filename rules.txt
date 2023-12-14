@@ -206,6 +206,7 @@ php-storm
 /cgi-bin/
 /cgi-bin/luci/
 /autodiscover/
+web+location.hash
 +chmod+
 +rm+-rf+sh
 #windows-files
