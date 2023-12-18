@@ -111,6 +111,11 @@ shell
 wget
 ^/.*\.sql$
 ^/.aws/credentials
+<?php
+<?
+?>
+$_request
+$_get
 #NoSQL
 regex
 #LFI/Path Traversal
