@@ -51,3 +51,4 @@ Specificfeeds
 specificfeeds.com
 Bytespider
 infrawatch
+SSH-2.0-Go
