@@ -348,3 +348,4 @@ WPScan
 EthereumStratum
 cpuminer
 MinerName
+trafilatura
