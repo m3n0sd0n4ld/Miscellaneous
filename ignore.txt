@@ -53,4 +53,3 @@ Bytespider
 infrawatch
 SSH-2.0-Go
 trafilatura
-ev-crawler
