@@ -349,3 +349,4 @@ EthereumStratum
 cpuminer
 MinerName
 trafilatura
+ev-crawler
