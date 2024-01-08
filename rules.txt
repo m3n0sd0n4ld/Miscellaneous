@@ -350,3 +350,4 @@ cpuminer
 MinerName
 trafilatura
 ev-crawler
+ImagesiftBot
