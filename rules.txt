@@ -351,3 +351,4 @@ MinerName
 trafilatura
 ev-crawler
 ImagesiftBot
+colly
